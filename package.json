@@ -1,0 +1,23 @@
+{
+  "name": "newfetchapi",
+  "version": "1.0.0",
+  "description": "Creation Time Choose a prompt that interests you Partner up and plan your app The instructor will help students learn to create a .env file!! Whiteboard, code plan and build your app in a new repo Push Yourself Further Interview Questions: Blog to Show You Know Exit Recap, Attendance, and Reminders",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruben-arcos/newFetchAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruben-arcos/newFetchAPI/issues"
+  },
+  "homepage": "https://github.com/ruben-arcos/newFetchAPI#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
